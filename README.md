@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ibro66
-- 👀 I’m interested in Editting
-- 🌱 I’m currently learning to be Full stack
+- 👀 I’m interested in ...Editting
+- 🌱 I’m currently learning ...to be Full stack
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me I Dont no
-- 😄 Pronouns: He
+- 📫 How to reach me ... I Dont no
+- 😄 Pronouns: ,..He
 - ⚡ Fun fact:
 
 <!---
